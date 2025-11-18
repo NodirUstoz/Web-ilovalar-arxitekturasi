@@ -3299,21 +3299,27 @@ Siz endi:
 
 ### Savol-javoblar (FAQ)
 
-**S: Django o'rganish qiyin emasmi?**
-J: Yo'q! Agar Python bilsangiz, Django oson. Bosqichma-bosqich o'rganish orqali har kim o'zlashtirishi mumkin.
+**Savol: Django o'rganish qiyin emasmi?**
 
-**S: Nima uchun Django, emas Flask?**
-J: Django "batteries included" — barcha kerakli narsalar tayyor. Flask esa minimal, siz hamma narsani o'zingiz qo'shasiz. Boshlang'ich uchun Django oson.
+Javob: Yo'q! Agar Python bilsangiz, Django oson. Bosqichma-bosqich o'rganish orqali har kim o'zlashtirishi mumkin.
 
-**S: Django bilan nima qurish mumkin?**
-J: Blog, e-commerce, ijtimoiy tarmoq, CRM tizim, API, SaaS loyiha — deyarli har qanday web ilovani.
+**Savol: Nima uchun Django, emas Flask?**
 
-**S: Django frontend bilan ishlaydimi?**
-J: Ha! Django Templates bilan HTML yasaysiz. Yoki React/Vue bilan REST API tarzida ishlashingiz mumkin.
+Javob: Django "batteries included" — barcha kerakli narsalar tayyor. Flask esa minimal, siz hamma narsani o'zingiz qo'shasiz. Boshlang'ich uchun Django oson.
 
-**S: Django ish topishga yordam beradimi?**
-J: Albatta! Django — O'zbekistonda va dunyoda eng ko'p talab qilinadigan backend texnologiyalardan biri.
+**Savol: Django bilan nima qurish mumkin?**
+
+Javob: Blog, e-commerce, ijtimoiy tarmoq, CRM tizim, API, SaaS loyiha — deyarli har qanday web ilovani.
+
+**Savol: Django frontend bilan ishlaydimi?**
+
+Javob: Ha! Django Templates bilan HTML yasaysiz. Yoki React/Vue bilan REST API tarzida ishlashingiz mumkin.
+
+**Savol: Django ish topishga yordam beradimi?**
+
+Javob: Albatta! Django — O'zbekistonda va dunyoda eng ko'p talab qilinadigan backend texnologiyalardan biri.
 
 ---
+
 
 **Maqolani oxirigacha o'qiganingiz uchun raxmat. Keyingi darsda ko'rishguncha!**
