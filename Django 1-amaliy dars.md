@@ -754,7 +754,7 @@ Django da **Project** va **App** farqi muhim:
 
 **Oddiy analogiya:**
 - Project = Bino
-- App = Binoдаgi xonalar (oshxona, yotoq xona, mehmon xona)
+- App = Binodаgi xonalar (oshxona, yotoq xona, mehmon xona)
 
 ### App yaratish buyrug'i
 
@@ -1343,8 +1343,8 @@ Django avtomatik ravishda ma'lumotlar bazasini boshqaradi. **Migrations** — bu
 
 **Oddiy analogiya:**
 - Siz binoda yangi xona qurishni rejalashtirdingiz — bu **model** yaratish
-- Qurilish chizmasi tayyorlandı — bu **makemigrations** buyrug'i
-- Qurilishchilar chizmaga asosan xonani qurdiler — bu **migrate** buyrug'i
+- Qurilish chizmasi tayyorlandi — bu **makemigrations** buyrug'i
+- Quruvchilar chizmaga asosan xonani qurdilar — bu **migrate** buyrug'i
 
 ### SQLite nima?
 
