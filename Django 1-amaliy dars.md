@@ -3303,7 +3303,7 @@ Siz endi:
 
 Javob: Yo'q! Agar Python bilsangiz, Django oson. Bosqichma-bosqich o'rganish orqali har kim o'zlashtirishi mumkin.
 
-**Savol: Nima uchun Django, emas Flask?**
+**Savol: Nima uchun Flask emas, Django?**
 
 Javob: Django "batteries included" — barcha kerakli narsalar tayyor. Flask esa minimal, siz hamma narsani o'zingiz qo'shasiz. Boshlang'ich uchun Django oson.
 
@@ -3323,3 +3323,4 @@ Javob: Albatta! Django — O'zbekistonda va dunyoda eng ko'p talab qilinadigan b
 
 
 **Maqolani oxirigacha o'qiganingiz uchun raxmat. Keyingi darsda ko'rishguncha!**
+
